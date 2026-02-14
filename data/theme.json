@@ -4,69 +4,69 @@
       {
         "label": "primary",
         "color": {
-          "red": 74,
-          "green": 122,
-          "blue": 155,
+          "red": 46,
+          "green": 163,
+          "blue": 242,
           "alpha": 1
         },
-        "hex": "#4a7a9b",
+        "hex": "#2EA3F2",
         "accessibility": {
-          "luminance": 0.17,
-          "luminancePercent": "17%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 4.6,
-          "wcagRating": "AA"
+          "luminance": 0.33,
+          "luminancePercent": "33%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 7.64,
+          "wcagRating": "AAA"
         }
       },
       {
         "label": "secondary",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 34,
+          "green": 122,
+          "blue": 181,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#227ab5",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
+          "luminance": 0.18,
+          "luminancePercent": "18%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
+          "contrastRatio": 4.65,
           "wcagRating": "AA"
         }
       },
       {
         "label": "accent",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 85,
+          "green": 177,
+          "blue": 72,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#55b148",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
+          "luminance": 0.34,
+          "luminancePercent": "34%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 7.77,
           "wcagRating": "AAA"
         }
       },
       {
         "label": "text",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 37,
+          "green": 149,
+          "blue": 21,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#259515",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
-          "wcagRating": "AAA"
+          "luminance": 0.22,
+          "luminancePercent": "22%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 5.39,
+          "wcagRating": "AA"
         }
       },
       {
@@ -123,17 +123,17 @@
       {
         "label": "topbar-dark",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 34,
+          "green": 122,
+          "blue": 181,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#227ab5",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
+          "luminance": 0.18,
+          "luminancePercent": "18%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
+          "contrastRatio": 4.65,
           "wcagRating": "AA"
         }
       }
@@ -141,76 +141,76 @@
     "typography": [
       {
         "label": "font",
-        "font": "'Verdana', helvetica, arial, sans-serif"
+        "font": "'sans-serif', helvetica, arial, sans-serif"
       },
       {
         "label": "font-title",
-        "font": "'Montserrat', sans-serif"
+        "font": "'Playfair Display', sans-serif"
       }
     ],
-    "logo_url": "https://www.taortho.com/assets/images/logo.png",
+    "logo_url": "https://jborthodonticsct.com/wp-content/uploads/2026/02/JB-Orthodontics-Logo-horiz-on-white-270.png",
     "logo_config": {
       "type": "url",
       "variant": "light",
-      "url": "https://www.taortho.com/assets/images/logo.png"
+      "url": "https://jborthodonticsct.com/wp-content/uploads/2026/02/JB-Orthodontics-Logo-horiz-on-white-270.png"
     },
     "logo_colors": {
       "colors": [
         {
-          "hex": "#3f9ff4",
-          "luminosity_percent": 32,
+          "hex": "#b3b3b3",
+          "luminosity_percent": 45,
+          "count": 4
+        },
+        {
+          "hex": "#b4b4b4",
+          "luminosity_percent": 46,
           "count": 3
         },
         {
-          "hex": "#3c9bf0",
-          "luminosity_percent": 31,
-          "count": 3
-        },
-        {
-          "hex": "#3c9bf1",
-          "luminosity_percent": 31,
-          "count": 3
-        },
-        {
-          "hex": "#3e9bf0",
-          "luminosity_percent": 31,
+          "hex": "#b8b8b8",
+          "luminosity_percent": 48,
           "count": 2
         },
         {
-          "hex": "#3d9df3",
-          "luminosity_percent": 32,
+          "hex": "#36d61f",
+          "luminosity_percent": 49,
           "count": 2
         },
         {
-          "hex": "#090707",
-          "luminosity_percent": 0,
-          "count": 2
-        },
-        {
-          "hex": "#070507",
-          "luminosity_percent": 0,
-          "count": 2
-        },
-        {
-          "hex": "#3da1f8",
-          "luminosity_percent": 33,
-          "count": 2
-        },
-        {
-          "hex": "#3d9ff2",
-          "luminosity_percent": 32,
+          "hex": "#b5b5b5",
+          "luminosity_percent": 46,
           "count": 1
         },
         {
-          "hex": "#3e9ef5",
-          "luminosity_percent": 32,
+          "hex": "#b8bab8",
+          "luminosity_percent": 49,
+          "count": 1
+        },
+        {
+          "hex": "#b4b6b4",
+          "luminosity_percent": 46,
+          "count": 1
+        },
+        {
+          "hex": "#b6b6b6",
+          "luminosity_percent": 47,
+          "count": 1
+        },
+        {
+          "hex": "#b7b7b7",
+          "luminosity_percent": 47,
+          "count": 1
+        },
+        {
+          "hex": "#37d820",
+          "luminosity_percent": 50,
           "count": 1
         }
       ],
-      "dominant_color": "#3f9ff4",
-      "avg_luminosity": 25.6,
+      "dominant_color": "#b3b3b3",
+      "avg_luminosity": 46.9,
       "is_light": false
     },
-    "favicon_url": "https://www.taortho.com/assets/images/icons/favicon.png"
+    "favicon_url": "https://jborthodonticsct.com/wp-content/uploads/2020/05/JB-Orthodontics-circle-favicon.png"
   }
 }
