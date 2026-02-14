@@ -1,77 +1,79 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "JB Orthodontics",
+  "domain": "jborthodonticsct.com",
+  "email": "info@jborthodonticsct.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "(203) 866-7806",
+    "href": "tel:+12038667806",
+    "aria": "2 0 3, 8 6 6, 7 8 0 6"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "Norwalk Office",
       "address": {
-        "street": "9650 Main Street",
-        "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "street": "346 Main Avenue",
+        "suite": "Suite D",
+        "city_state": "Norwalk, CT 06851",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "",
+          "latitude": ""
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "(203) 866-7806",
+        "href": "tel:+12038667806"
       },
-      "email": "info@mandtortho.com",
-      "hours": [
-        {
-          "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
-        },
-        {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
-        },
-        {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
-        },
-        {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
-        },
-        {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
-        }
-      ],
+      "email": "info@jborthodonticsct.com",
+      "hours": [],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
+        "href": "https://www.google.com/maps/search/?api=1&query=346+Main+Avenue+Suite+D+Norwalk+CT+06851",
         "label": "Get Directions"
       },
       "special_note": ""
     },
     {
-      "title": "Tonawanda Office",
+      "title": "Stamford Office",
       "address": {
-        "street": "1077 Delaware Rd",
+        "street": "67 Crescent St.",
         "suite": "",
-        "city_state": "Tonawanda, NY 14223",
+        "city_state": "Stamford, CT 06906",
         "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
+          "longitude": "-73.5170294",
+          "latitude": "41.0701045"
         }
       },
       "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
+        "number": "(203) 252-2181",
+        "href": "tel:+12032522181"
       },
-      "email": "info@mandtortho.com",
+      "email": "info@jborthodonticsct.com",
       "hours": [],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=67+Crescent+St+Stamford+CT+06906",
+        "label": "Get Directions"
+      },
+      "special_note": ""
+    },
+    {
+      "title": "Westport Office",
+      "address": {
+        "street": "311 Post Rd E.",
+        "suite": "",
+        "city_state": "Westport, CT 06880",
+        "coordinates": {
+          "longitude": "-73.3547132",
+          "latitude": "41.1411572"
+        }
+      },
+      "phone": {
+        "number": "(203) 293-9595",
+        "href": "tel:+12032939595"
+      },
+      "email": "info@jborthodonticsct.com",
+      "hours": [],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=311+Post+Rd+E+Westport+CT+06880",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -94,17 +96,17 @@
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "icon": "tooth-two-v2",
+        "text": "346 Main Avenue, Suite D, Norwalk, CT 06851",
+        "href": "https://www.google.com/maps/search/?api=1&query=346+Main+Avenue+Suite+D+Norwalk+CT+06851",
+        "label": "View 346 Main Avenue, Suite D, Norwalk, CT 06851 on Google Maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "(203) 866-7806",
+        "href": "tel:+12038667806",
+        "label": "Call (203) 866-7806",
         "new_window": false
       }
     ],
@@ -129,10 +131,10 @@
           "label": "Schedule Consultation",
           "aria_label": "Schedule a consultation",
           "href": "",
-          "path": "/contact",
-          "hash": "#form",
+          "path": "/request-an-appointment/",
+          "hash": "",
           "external": false,
-          "include_icon": true,
+          "include_icon": false,
           "icon": "tooth-two-v2",
           "color": "primary"
         }
@@ -150,20 +152,20 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
-        "icon": "youtube"
+        "href": "https://www.facebook.com/JB-Orthodontics-1795316160771799/",
+        "icon": "facebook"
       }
     ],
     "add_border": false
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
-    "text": "",
+    "title": "Welcome to JB Orthodontics",
+    "text": "Orthodontics is about more than straight teeth — it\u0019s about restoring confidence. Call or request an appointment to start your smile journey.",
     "image": {
-      "src": "",
+      "src": "https://jborthodonticsct.com/wp-content/uploads/2017/11/JB-Orthodontics-Logo-300x124.png",
       "webp": "",
-      "alt": "",
+      "alt": "JB Orthodontics logo",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -171,7 +173,9 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": null
+      "image_selection_hints": {
+        "context_category": "New Patients Hero"
+      }
     }
   }
 }
